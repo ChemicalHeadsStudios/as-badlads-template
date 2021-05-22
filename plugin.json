@@ -1,0 +1,7 @@
+{
+   "Name": "AssemblyScriptPluginTemplate",
+   "Author": "",
+   "Version": "1.0.0",
+   "IntendedBadLadsVersion": "0.9.0.0",
+   "WasmPath": "build/optimized.wasm"
+}
